@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
-![haitaoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![haitaoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=haitaoss&show_icons=true&theme=radical)
 
 ## 仓库
 
