@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-## 推荐的项目
+## 仓库
 
 [科学上网使用和自建教程](https://github.com/haitaoss/ScienceOnline)
 
