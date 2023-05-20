@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![haitaoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=haitaoss&show_icons=true&theme=radical)
   -->
-
+![haitaoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=haitaoss&show_icons=true)
 ## 仓库
 
 [Spring、SpringMVC、SpringWebFlux 源码笔记](https://github.com/haitaoss/spring-framework)
