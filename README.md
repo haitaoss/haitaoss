@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![haitaoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=haitaoss&show_icons=true&theme=radical)
-  -->
 ![haitaoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=haitaoss&show_icons=true)
+  -->
 ## My Repository
 
 [Spring、SpringMVC、SpringWebFlux 源码笔记](https://github.com/haitaoss/spring-framework)
