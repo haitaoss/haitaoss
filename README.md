@@ -34,5 +34,3 @@ Here are some ideas to get you started:
 [Spring Cloud Gateway 源码笔记](https://github.com/haitaoss/spring-cloud-gateway)
 
 [Spring Security 源码笔记](https://github.com/haitaoss/spring-security)
-
-[科学上网使用和自建教程](https://github.com/haitaoss/ScienceOnline)
